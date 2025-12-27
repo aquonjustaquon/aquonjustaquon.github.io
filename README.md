@@ -1,2 +1,2 @@
 # aquonjustaquon.github.io
-my personal website
+Here lies my personal website. Nothing special, just a plain vanilla html/css/js site.
